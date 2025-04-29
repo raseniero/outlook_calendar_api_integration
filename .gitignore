@@ -11,7 +11,6 @@ __pycache__/
 
 # Jupyter Notebook specific
 .ipynb_checkpoints/
-*.ipynb
 
 # Virtual environment
 venv/
@@ -29,3 +28,6 @@ Thumbs.db
 # IDE specific
 .vscode/
 .idea/
+
+# Local configuration files
+.env
